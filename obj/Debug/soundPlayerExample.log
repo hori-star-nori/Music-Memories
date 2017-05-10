@@ -1,0 +1,21 @@
+﻿  ofApp.cpp
+C:\Users\PCUSER\Downloads\of_v0.9.0_vs_release\of_v0.9.0_vs_release\libs\openFrameworks\utils\ofLog.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\PCUSER\Downloads\of_v0.9.0_vs_release\of_v0.9.0_vs_release\libs\openFrameworks\types\ofTypes.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\pcuser\downloads\of_v0.9.0_vs_release\of_v0.9.0_vs_release\libs\openframeworks\types\ofColor.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\pcuser\downloads\of_v0.9.0_vs_release\of_v0.9.0_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\pcuser\downloads\of_v0.9.0_vs_release\of_v0.9.0_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\pcuser\downloads\of_v0.9.0_vs_release\of_v0.9.0_vs_release\libs\openframeworks\types\ofColor.h(778): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\PCUSER\Downloads\of_v0.9.0_vs_release\of_v0.9.0_vs_release\libs\openFrameworks\utils\ofUtils.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\PCUSER\Downloads\of_v0.9.0_vs_release\of_v0.9.0_vs_release\libs\openFrameworks\3d\ofMesh.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\PCUSER\Downloads\of_v0.9.0_vs_release\of_v0.9.0_vs_release\libs\openFrameworks\graphics\ofPolyline.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\pcuser\downloads\of_v0.9.0_vs_release\of_v0.9.0_vs_release\libs\openframeworks\3d\ofNode.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\PCUSER\Downloads\of_v0.9.0_vs_release\of_v0.9.0_vs_release\libs\openFrameworks\graphics\ofGraphics.h(834): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\PCUSER\Downloads\of_v0.9.0_vs_release\of_v0.9.0_vs_release\libs\openFrameworks\graphics\ofPath.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\PCUSER\Downloads\of_v0.9.0_vs_release\of_v0.9.0_vs_release\libs\openFrameworks\graphics\ofTrueTypeFont.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\PCUSER\Downloads\of_v0.9.0_vs_release\of_v0.9.0_vs_release\libs\openFrameworks\3d\ofCamera.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\PCUSER\Downloads\of_v0.9.0_vs_release\of_v0.9.0_vs_release\libs\openFrameworks\3d\ofEasyCam.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+     ライブラリ bin\soundPlayerExample_debug.lib とオブジェクト bin\soundPlayerExample_debug.exp を作成中
+  soundPlayerExample.vcxproj -> C:\Users\PCUSER\Downloads\of_v0.9.0_vs_release\of_v0.9.0_vs_release\program\sound\soundPlayerExample(20160710)完成\bin\soundPlayerExample_debug.exe
+  soundPlayerExample.vcxproj -> bin\soundPlayerExample_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\PCUSER\Downloads\of_v0.9.0_vs_release\of_v0.9.0_vs_release\export\vs\Win32\
